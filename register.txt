@@ -1,2 +1,4 @@
 Register code is here
 Register with google option added
+Already registered button added
+
